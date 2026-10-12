@@ -1,6 +1,7 @@
 привет, я ника 
 
 стек
+
 html css python aiogram pandas sql excel git
 
 · currently learning
